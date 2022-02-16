@@ -3,7 +3,7 @@
 
 ![my picture](IMG_0515.JPG)
 
-[Assignment Reading 1.docx]
+[Assignment 1](Assignment Reading 1.docx)
 
 You can use the [editor on GitHub](https://github.com/LASK21/lask21.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
