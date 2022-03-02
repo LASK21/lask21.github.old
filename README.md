@@ -3,7 +3,27 @@
 
 ![my picture](IMG_0515.JPG)
 
-![Assignemnt Reading 1](https://github.com/LASK21/LASK21/blob/666fe1fe179849e074e6a79c7c9d22a22b3d6279/Assignment%20Reading%201.docx)
+This is Laura Kobs
+
+![Assignment 1](file:///C:/Users/merry/Documents/Assignment%20Reading%201.htm)
+
+![Assignment 2](file:///C:/Users/merry/Documents/Assignment%202.htm)
+
+![Assignment 3]()
+
+### Markdown
+
+![Lab 0](file:///C:/Users/merry/Documents/LAB1.html)
+
+![Lab 1](file:///C:/Users/merry/Downloads/Lab01.html)
+
+![Lab 2](file:///C:/Users/merry/Documents/LAB2.html)
+
+![Lab 3](file:///C:/Users/merry/Documents/Lab3.html)
+
+![Lab 4](file:///C:/Users/merry/Documents/Lab4.html)
+
+![Lab 5](file:///C:/Users/merry/Documents/Lab5.html)
 
 You can use the [editor on GitHub](https://github.com/LASK21/lask21.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
