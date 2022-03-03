@@ -15,7 +15,7 @@ This is Laura Kobs
 
 ![Lab 0](file:///C:/Users/merry/Documents/LAB1.html)
 
-![Lab 1](file:///C:/Users/merry/Downloads/Lab01.html)
+![Lab 1](https://lask21.github.io/LAB1.html)
 
 ![Lab 2](file:///C:/Users/merry/Documents/LAB2.html)
 
