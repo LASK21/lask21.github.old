@@ -5,9 +5,9 @@
 
 This is Laura Kobs
 
-![Assignment 1](file:///C:/Users/merry/Documents/Assignment%20Reading%201.htm)
+![Assignment 1](https://lask21.github.io/Assignment%20Reading%201.pdf)
 
-![Assignment 2](file:///C:/Users/merry/Documents/Assignment%202.htm)
+![Assignment 2](https://lask21.github.io/Assignment%202.pdf)
 
 ![Assignment 3]()
 
