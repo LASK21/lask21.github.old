@@ -13,17 +13,15 @@ This is Laura Kobs
 
 ### Markdown
 
-![Lab 0](file:///C:/Users/merry/Documents/LAB1.html)
-
 ![Lab 1](https://lask21.github.io/LAB1.html)
 
-![Lab 2](file:///C:/Users/merry/Documents/LAB2.html)
+![Lab 2](https://lask21.github.io/LAB2.html)
 
-![Lab 3](file:///C:/Users/merry/Documents/Lab3.html)
+![Lab 3](https://lask21.github.io/Lab3.html)
 
-![Lab 4](file:///C:/Users/merry/Documents/Lab4.html)
+![Lab 4](https://lask21.github.io/Lab04.html)
 
-![Lab 5](file:///C:/Users/merry/Documents/Lab5.html)
+![Lab 5](https://lask21.github.io/Lab5.html)
 
 You can use the [editor on GitHub](https://github.com/LASK21/lask21.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
