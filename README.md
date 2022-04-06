@@ -31,7 +31,7 @@ Assignment 4
 
 ![textdata_mining01.R](https://lask21.github.io/textdatamining01.html)
 
-![Churchill](https://lask21.github.io/Churchill.html)
+![Churchill](https://lask21.github.io/Churchill.html) 
 
 ![tidytext01.R](https://lask21.github.io/Tidytext.html)
 
