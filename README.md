@@ -15,21 +15,21 @@ Assignment 4
 
 ### Markdown
 
-![Lab 1](https://lask21.github.io/Lab%2001.html)
+![Lab 1](https://lask21.github.io/Lab01.html)
 
-![Lab 2](https://lask21.github.io/Lab%2002.html)
+![Lab 2](https://lask21.github.io/Lab02.html)
 
-![Lab 3](https://lask21.github.io/Lab%2003.html)
+![Lab 3](https://lask21.github.io/Lab03.html)
 
 ![Lab 4](https://lask21.github.io/Lab04.html)
 
-![Lab 5](https://lask21.github.io/Lab5.html)
+![Lab 5](https://lask21.github.io/Lab05.html)
 
 ![Lab 5](https://lask21.github.io/Lab5.html)
 
-![Gentle Introduction](https://lask21.github.io/Gentle%20Introduction.html)
+![Gentle Introduction](https://lask21.github.io/GentleInto.Rmd.html)
 
-![textdata_mining01.R](https://lask21.github.io/Lab_textmining01.R.html)
+![textdata_mining01.R](https://lask21.github.io/textdatamining01.html)
 
 ![Churchill](https://lask21.github.io/Churchill.html)
 
